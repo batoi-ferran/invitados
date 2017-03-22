@@ -1,5 +1,2 @@
 Ferran
-ropa
-calcetines
-agua
-abuela
+pijama,paraguas,ropa,calcetines,agua,abuela
